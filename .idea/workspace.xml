@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffb7e971-acb4-47a4-a896-c31752ca9643" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hw4/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw4/q13220.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/hw4/q13220.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1623991099226</updated>
       <workItem from="1623991100591" duration="703000" />
-      <workItem from="1623991818455" duration="7349000" />
+      <workItem from="1623991818455" duration="7490000" />
     </task>
     <servers />
   </component>
