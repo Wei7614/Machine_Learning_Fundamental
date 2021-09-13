@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffb7e971-acb4-47a4-a896-c31752ca9643" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hw4/q13220.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/hw4/q13220.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +65,8 @@
       <option name="presentableId" value="Default" />
       <updated>1623991099226</updated>
       <workItem from="1623991100591" duration="703000" />
-      <workItem from="1623991818455" duration="7490000" />
+      <workItem from="1623991818455" duration="8166000" />
+      <workItem from="1626878258877" duration="682000" />
     </task>
     <servers />
   </component>
@@ -81,6 +83,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="405" y="208" key="SettingsEditor" timestamp="1623991794500">
